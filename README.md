@@ -1,3 +1,5 @@
+**This fork is based on prettier/prettier-eslint v12 to make it correctly running on NodeJS v15 without adding `core-js` dependency.**
+
 # prettier-eslint
 
 Formats your JavaScript using [`prettier`][prettier] followed by [`eslint --fix`][eslint]
